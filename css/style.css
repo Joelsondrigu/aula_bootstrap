@@ -1,0 +1,69 @@
+body{
+    font: 20px arial, sans-serif;
+}
+.navbar{
+    background-color: #088A08;
+}
+
+.quem-somos{
+    background-color: grey;
+}
+
+.margin{
+    padding-top: 50px;
+}
+
+.img{
+    margin: 10px;
+}
+p{
+    margin-bottom: 10px;
+}
+
+#parceiros{
+    background-color: burlywood;
+    
+}
+.container{
+    padding-bottom: 70px;
+}
+#quemsomos{
+    background-color: rgb(84, 151, 28);
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+#Time{
+    background-color: goldenrod;
+}
+
+#servico{
+    background-color: rgb(56, 67, 221);
+}
+#space{
+    color:white;
+    
+}
+h3{
+    color: white;
+    font-family: fantasy;
+}
+a{
+    font-family: fantasy;
+    
+}
+#space2{
+    padding: 30px;
+}
+#pe{
+    text-align: center;
+    font-style: italic;
+    background-color: grey;
+    padding: 20px;
+    color: white;
+
+
+}
+#space3{
+    padding-top: 15px;
+}
