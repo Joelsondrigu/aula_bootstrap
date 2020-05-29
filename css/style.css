@@ -21,7 +21,11 @@ p{
 }
 
 #parceiros{
-    background-color: burlywood;
+    background-color: white;
+    height: 180px;
+    margin: auto;
+    margin-bottom: 20px;
+
     
 }
 .container{
@@ -57,13 +61,17 @@ a{
 }
 #pe{
     text-align: center;
-    font-style: italic;
-    background-color: grey;
-    padding: 20px;
-    color: white;
-
-
+    color:white;
+    margin: auto;
+    font: normal 8pt arial;
+    background-color: rgb(56, 67, 221);
+    height: 60px;
+    padding-top: 30px;
 }
 #space3{
     padding-top: 15px;
+}
+
+#logos{
+    padding-top: 40px;
 }
